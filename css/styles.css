@@ -1,0 +1,24 @@
+main {
+  padding-top: 10rem;
+}
+
+nav a {
+  font-size: 1.5rem;
+}
+
+.footer {
+  height: 8rem;
+}
+
+.large {
+  font-size: 2rem;
+}
+
+.bg-light-brown {
+  background-color: #d0b8ac;
+}
+
+.card img {
+  max-height: 15rem;
+}
+/*# sourceMappingURL=styles.css.map */
